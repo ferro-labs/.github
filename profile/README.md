@@ -23,19 +23,7 @@ model providers, routing logic, observability, secure connectivity, and deployme
 
 Our goal is simple: make the AI Gateway ecosystem clear, open, and production-ready.
 
-## Ferro Labs AI Gateway
-
-Ferro Labs AI Gateway is our open-source AI gateway written in Go.
-It gives teams one API to route, govern, and observe traffic across OpenAI, Anthropic, Gemini, Bedrock, Azure, and many more providers.
-
-### What it solves
-
-- One OpenAI-compatible surface across many model providers
-- Routing, retries, caching, guardrails, and cost control in one layer
-- Better observability for production AI workloads
-- A foundation for teams building internal AI platforms and agent infrastructure
-
-### AI Gateway Ecosystem Repositories
+## AI Gateway Ecosystem Repositories
 
 | Repository | Purpose |
 |---|---|
@@ -56,25 +44,3 @@ It is built for developers and teams who want a lightweight ingress layer withou
 |---|---|
 | [`ferrotunnel`](https://github.com/ferro-labs/ferrotunnel) | Core tunneling product |
 | [`homebrew-ferrotunnel`](https://github.com/ferro-labs/homebrew-ferrotunnel) | Homebrew tap for installing FerroTunnel |
-
-## Contributing
-
-We are building an open AI Gateway ecosystem and contributions are welcome.
-
-- Open issues for bugs, gaps, or feature requests
-- Contribute providers, integrations, benchmarks, examples, and docs
-- Improve deployment tooling and Kubernetes workflows
-- Join discussions and help shape the roadmap
-
-If you want to contribute, start with:
-
-- [`ai-gateway`](https://github.com/ferro-labs/ai-gateway)
-- [`docs`](https://github.com/ferro-labs/docs)
-- [`ai-gateway-examples`](https://github.com/ferro-labs/ai-gateway-examples)
-
-## Useful Links
-
-- Website: [ferrolabs.ai](https://ferrolabs.ai)
-- Docs: [docs.ferrolabs.ai](https://docs.ferrolabs.ai)
-- AI Gateway: [github.com/ferro-labs/ai-gateway](https://github.com/ferro-labs/ai-gateway)
-- FerroTunnel: [github.com/ferro-labs/ferrotunnel](https://github.com/ferro-labs/ferrotunnel)
