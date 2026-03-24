@@ -30,7 +30,7 @@ Our goal is simple: make the AI Gateway ecosystem clear, open, and production-re
 | [`ai-gateway`](https://github.com/ferro-labs/ai-gateway) | Core open-source AI gateway in Go |
 | [`docs`](https://github.com/ferro-labs/docs) | Official documentation and guides |
 | [`ai-gateway-examples`](https://github.com/ferro-labs/ai-gateway-examples) | Integration examples, demos, and reference patterns |
-| [`ai-gateway-benchmark-performance`](https://github.com/ferro-labs/ai-gateway-benchmark-performance) | Performance benchmarks and comparison workloads |
+| [`ai-gateway-performance-benchmarks`](https://github.com/ferro-labs/ai-gateway-performance-benchmarks) | Performance benchmarks and comparison workloads |
 | [`helm-charts`](https://github.com/ferro-labs/helm-charts) | Official Helm charts for Kubernetes deployment |
 
 ## FerroTunnel
