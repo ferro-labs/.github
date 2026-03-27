@@ -38,9 +38,10 @@ Our goal is simple: make the AI Gateway ecosystem clear, open, and production-re
 FerroTunnel is our secure, API-first tunneling product for exposing services with public URLs and low-latency forwarding.
 It is built for developers and teams who want a lightweight ingress layer without unnecessary complexity.
 
-### FerroTunnel Repositories
+### FerroTunnel Ecosystem Repositories
 
 | Repository | Purpose |
 |---|---|
 | [`ferrotunnel`](https://github.com/ferro-labs/ferrotunnel) | Core tunneling product |
 | [`homebrew-ferrotunnel`](https://github.com/ferro-labs/homebrew-ferrotunnel) | Homebrew tap for installing FerroTunnel |
+| [`tunnel-examples`](https://github.com/ferro-labs/tunnel-examples) | Integration examples and reference patterns for FerroTunnel |
