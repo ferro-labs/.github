@@ -61,7 +61,7 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at:
 
-- Email: **shahmitul005@gmail.com**
+- Email: **hello@ferrolabs.ai**
 - Or open an issue with the `code-of-conduct` label in the relevant repository
 
 All complaints will be reviewed and investigated promptly and fairly.

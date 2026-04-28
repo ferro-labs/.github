@@ -12,7 +12,7 @@
 
 **Do not open a public GitHub issue for security vulnerabilities.**
 
-Please report security issues by emailing: **shahmitul005@gmail.com**
+Please report security issues by emailing: **hello@ferrolabs.ai**
 
 Include the following in your report:
 
