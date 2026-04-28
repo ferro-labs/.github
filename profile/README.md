@@ -28,7 +28,8 @@ Our goal is simple: make the AI Gateway ecosystem clear, open, and production-re
 | Repository | Purpose |
 |---|---|
 | [`ai-gateway`](https://github.com/ferro-labs/ai-gateway) | Core open-source AI gateway in Go |
-| [`ferrolabs-python-sdk`](https://github.com/ferro-labs/ferrolabs-python-sdk) | Official Python SDK for the AI Gateway |
+| [`ferrolabs-python-sdk`](https://github.com/ferro-labs/ferrolabs-python-sdk) | Official Python SDK — `pip install ferrolabsai` |
+| [`ferrolabs-typescript-sdk`](https://github.com/ferro-labs/ferrolabs-typescript-sdk) | Official TypeScript SDK — `npm install @ferro-labs-ai/sdk` |
 | [`docs`](https://github.com/ferro-labs/ferrolabs-docs) | Official documentation and guides |
 | [`ai-gateway-examples`](https://github.com/ferro-labs/ai-gateway-examples) | Integration examples, demos, and reference patterns |
 | [`ai-gateway-benchmark-performance`](https://github.com/ferro-labs/ai-gateway-benchmark-performance) | Performance benchmarks and comparison workloads |
