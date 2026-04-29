@@ -32,7 +32,7 @@ Our goal is simple: make the AI Gateway ecosystem clear, open, and production-re
 | [`ferrolabs-typescript-sdk`](https://github.com/ferro-labs/ferrolabs-typescript-sdk) | Official TypeScript SDK — `npm install @ferro-labs-ai/sdk` |
 | [`docs`](https://github.com/ferro-labs/ferrolabs-docs) | Official documentation and guides |
 | [`ai-gateway-examples`](https://github.com/ferro-labs/ai-gateway-examples) | Integration examples, demos, and reference patterns |
-| [`ai-gateway-benchmark-performance`](https://github.com/ferro-labs/ai-gateway-benchmark-performance) | Performance benchmarks and comparison workloads |
+| [`ai-gateway-performance-benchmarks`](https://github.com/ferro-labs/ai-gateway-performance-benchmarks) | Performance benchmarks and comparison workloads |
 | [`helm-charts`](https://github.com/ferro-labs/helm-charts) | Official Helm charts for Kubernetes deployment |
 
 ## FerroTunnel
