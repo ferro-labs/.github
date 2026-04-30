@@ -9,6 +9,8 @@
   <p>
     <a href="https://github.com/ferro-labs/ai-gateway">AI Gateway</a>
     ·
+    <a href="https://github.com/ferro-labs/model-catalog">Model Catalog</a>
+    ·
     <a href="https://github.com/ferro-labs/ferrotunnel">FerroTunnel</a>
     ·
     <a href="https://docs.ferrolabs.ai">Docs</a>
@@ -28,6 +30,7 @@ Our goal is simple: make the AI Gateway ecosystem clear, open, and production-re
 | Repository | Purpose |
 |---|---|
 | [`ai-gateway`](https://github.com/ferro-labs/ai-gateway) | Core open-source AI gateway in Go |
+| [`model-catalog`](https://github.com/ferro-labs/model-catalog) | Open-source LLM pricing & capability database — 2,468 models, 82 providers |
 | [`ferrolabs-python-sdk`](https://github.com/ferro-labs/ferrolabs-python-sdk) | Official Python SDK — `pip install ferrolabsai` |
 | [`ferrolabs-typescript-sdk`](https://github.com/ferro-labs/ferrolabs-typescript-sdk) | Official TypeScript SDK — `npm install @ferro-labs-ai/sdk` |
 | [`docs`](https://github.com/ferro-labs/ferrolabs-docs) | Official documentation and guides |
